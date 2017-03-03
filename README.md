@@ -32,7 +32,7 @@ I then explored different color spaces and different `skimage.hog()` parameters 
 Here is an example using the `RGB` color space and HOG parameters of `orientations=9`, `pixels_per_cell=(8, 8)` and `cells_per_block=(2, 2)`:
 
 
-![alt text][output_images/img2.png]
+![alt text](output_images/img2.png)
 
 ####2. Explain how you settled on your final choice of HOG parameters.
 
